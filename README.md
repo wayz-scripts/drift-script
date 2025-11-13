@@ -2,10 +2,6 @@
 
 Assisted drifting with a single toggle command, runtime handling edits, launch assist, and safe restoration when disabled or the resource stops.
 
-**Tags:** free, standalone, qbcore-optional, drift, handling, client-side  
-**Tested on:** FXServer (cerulean)  
-**License:** MIT
-
 ---
 
 ## ✨ Features
